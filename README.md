@@ -10,7 +10,7 @@ Alina Cherkasskiy
 
 - [First map in ArcGIS Pro](https://github.com/allycat59/gis-project-portfolio-geo441-541b/tree/main/basic-mapping)
 - [Map the age index based on 2000 census data](https://github.com/allycat59/gis-project-portfolio-geo441-541b/tree/main/map-coordinate-basics)
-- [Create a new repository](https://github.com/allycat59/gis-project-portfolio-geo441-541b/tree/main/remote-sensing-basics)
+- [Create a new repository](https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/create_first_notebook.ipynb)
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/allycat59/gis-project-portfolio-geo441-541b/tree/main/map-coordinate-basics)
