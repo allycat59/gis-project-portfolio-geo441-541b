@@ -8,7 +8,7 @@ Alina Cherkasskiy
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
+- [First map in ArcGIS Pro](https://github.com/allycat59/gis-project-portfolio-geo441-541b/commit/d1e8786dd5d59d14fe54e8e745f9c46fcea1486c)
 - [Map the age index based on 2000 census data](https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/age-index-mapping.ipynb)
 - [Create a new repository](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/week1-arcgis-mapping.ipynb)
 ## Map Coordinate Basics
