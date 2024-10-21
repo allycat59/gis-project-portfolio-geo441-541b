@@ -13,4 +13,4 @@ Alina Cherkasskiy
 - [Create a new repository](https://github.com/allycat59/gis-project-portfolio-geo441-541b/tree/main/remote-sensing-basics)
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
+- [Understanding map coordinates](https://github.com/allycat59/gis-project-portfolio-geo441-541b/tree/main/map-coordinate-basics)
