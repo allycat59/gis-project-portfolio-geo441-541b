@@ -13,4 +13,4 @@ Alina Cherkasskiy
 - [Create a new repository](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/geo441_541_understand_band_composite.ipynb)
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/allycat59/gis-project-portfolio-geo441-541b/tree/main/map-coordinate-basics)
+- [Understanding map coordinates](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/week_03_assignment_template.ipynb)
