@@ -18,4 +18,4 @@ Alina Cherkasskiy
 
 ## Spatial Analysis
 
--[Spatial Analysis for Vector Data](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/6308a540ddfedd11ea1dfa0a4832474ccf818cb5/spatial-analysis/week_10_assignment_template.ipynb)
+- [Spatial Analysis for Vector Data](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/6308a540ddfedd11ea1dfa0a4832474ccf818cb5/spatial-analysis/week_10_assignment_template.ipynb)
