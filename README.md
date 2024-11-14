@@ -19,3 +19,5 @@ Alina Cherkasskiy
 ## Spatial Analysis
 
 - [Spatial Analysis for Vector Data](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/6308a540ddfedd11ea1dfa0a4832474ccf818cb5/spatial-analysis/week_10_assignment_template.ipynb)
+
+- [3D Layer and Texture Map](https://colab.research.google.com/drive/1X4yykntZmsHqaH03G6t2MgqI0-IMZNhz#scrollTo=SNWn8AFV9039&uniqifier=1)
