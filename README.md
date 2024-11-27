@@ -21,3 +21,5 @@ Alina Cherkasskiy
 - [Spatial Analysis for Vector Data](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/6308a540ddfedd11ea1dfa0a4832474ccf818cb5/spatial-analysis/week_10_assignment_template.ipynb)
 
 - [Creating 3D features with multipatch texture](spatial-analysis/Week_11_assignment_extra_credit.ipynb)
+
+- [Population per square mile in 2010 and 2020](spatial-analysis/week_12_assignment_template.ipynb)
