@@ -22,4 +22,4 @@ Alina Cherkasskiy
 
 - [Creating 3D features with multipatch texture](spatial-analysis/Week_11_assignment_extra_credit.ipynb)
 
-- [Population per square mile in 2010 and 2020](spatial-analysis/week_12_assignment_template.ipynb)
+- [Working with U.S. Census Data for Spatial Analysis](spatial-analysis/week_12_assignment_template.ipynb)
