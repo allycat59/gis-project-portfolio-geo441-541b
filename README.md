@@ -24,4 +24,4 @@ Alina Cherkasskiy
 
 - [Working with U.S. Census Data for Spatial Analysis](spatial-analysis/Working_with_U_S_Census_Data_for_Spatial_Analysis.ipynb)
 
--[Spatial Analysis for Raster Data](spatial-analysis/Spatial_analysis_for_raster_data.ipynb)
+- [Spatial Analysis for Raster Data](spatial-analysis/Spatial_analysis_for_raster_data.ipynb)
