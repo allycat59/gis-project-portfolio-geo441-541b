@@ -8,18 +8,20 @@ Alina Cherkasskiy
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/week1-arcgis-mapping.ipynb)
-- [Map the age index based on 2000 census data](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/week5-age-index-arcgis-mapping.ipynb)
+- [First map in ArcGIS Pro](basic-mapping/Introduction_to_ArcGIS_Pro_GUI.ipynb)
+- [Map the age index based on 2000 census data](basic-mapping/Query_spatial_data_for_new_insights.ipynb)
 - [Create a new repository](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/geo441_541_understand_band_composite.ipynb)
-- [Building Data Models and Mapping](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/week_02_assignment_template.ipynb)
+- [Building Data Models and Mapping](basic-mapping/Data_Model_and_Mapping.ipynb)
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/week_03_assignment_template.ipynb)
+- [Understanding map coordinates](map-coordinate-basics/Projecting_Geographic_Data.ipynb)
 
 ## Spatial Analysis
 
-- [Spatial Analysis for Vector Data](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/6308a540ddfedd11ea1dfa0a4832474ccf818cb5/spatial-analysis/week_10_assignment_template.ipynb)
+- [Spatial Analysis for Vector Data](spatial-analysis/Spatial_analysis_for_vector_data.ipynb)
 
-- [Creating 3D features with multipatch texture](spatial-analysis/Week_11_assignment_extra_credit.ipynb)
+- [Creating 3D features with multipatch texture](spatial-analysis/The_World_in_3D.ipynb)
 
-- [Working with U.S. Census Data for Spatial Analysis](spatial-analysis/week_12_assignment_template.ipynb)
+- [Working with U.S. Census Data for Spatial Analysis](spatial-analysis/Working_with_U_S_Census_Data_for_Spatial_Analysis.ipynb)
+
+-[Spatial Analysis for Raster Data](spatial-analysis/Spatial_analysis_for_raster_data.ipynb)
