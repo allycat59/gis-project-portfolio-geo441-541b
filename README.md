@@ -31,3 +31,5 @@ Alina Cherkasskiy
 -  [Create a new repository](https://github.com/allycat59/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/geo441_541_understand_band_composite.ipynb)
 
 ## References
+
+- [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
