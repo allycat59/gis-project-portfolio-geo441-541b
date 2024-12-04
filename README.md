@@ -11,6 +11,7 @@ Alina Cherkasskiy
 - [First map in ArcGIS Pro](basic-mapping/Introduction_to_ArcGIS_Pro_GUI.ipynb)
 - [Map the age index based on 2000 census data](basic-mapping/Query_spatial_data_for_new_insights.ipynb)
 - [Building Data Models and Mapping](basic-mapping/Data_Model_and_Mapping.ipynb)
+- [Understanding Band Composite](basic-mapping/geo441_541_understand_band_composite.ipynb)
   
 ## Map Coordinate Basics
 
